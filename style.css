@@ -17,7 +17,7 @@ h1, h2 {
 }
 
 form {
-    display: flex;
+    display: contents;
     justify-content: space-between;
     margin-bottom: 20px;
 }
